@@ -1,0 +1,1 @@
+import{t as e}from"./react-vendor-q3z5VTvw.js";import{cr as t}from"./index-BD3Z7ITg.js";import{t as n}from"./use-user-features-Ce-3udGI.js";var r=e();function i({feature:e,children:i}){let a=n();return a.loaded?a[e]?i:(0,r.jsx)(t,{to:`/settings`,replace:!0}):null}export{i as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./messages-sEK2I1VG.js";function t(t){let n=e[t];return typeof n==`function`?n():t}export{t};
