@@ -1,0 +1,1 @@
+import{t as e}from"./messages-uKacLl_Z.js";function t(t){let n=e[t];return typeof n==`function`?n():t}export{t};
