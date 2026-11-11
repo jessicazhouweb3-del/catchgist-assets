@@ -1,0 +1,1 @@
+import{E as e,Xn as t}from"./index-BeuDpPXk.js";function n(n=!0){return t({queryKey:[`user-permissions`],queryFn:()=>e(`/api/user/permissions`),staleTime:3e5,enabled:n})}export{n as t};
