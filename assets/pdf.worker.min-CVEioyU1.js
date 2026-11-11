@@ -1,0 +1,1 @@
+var e=`https://cdn.jsdelivr.net/gh/jessicazhouweb3-del/catchgist-assets@v3-payment/assets/pdf.worker.min-BGUT02Us.mjs`;export{e as default};
