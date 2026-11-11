@@ -1,0 +1,1 @@
+import{t as e}from"./messages-CjOHtx7p.js";function t(t){let n=e[t];return typeof n==`function`?n():t}export{t};
